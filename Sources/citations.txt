@@ -1,0 +1,27 @@
+a. Huggingface. https://huggingface.co/. Accessed: 11-07-2021
+
+b. Huggingface Transformers. https://huggingface.co/transformers/. Accessed: 11-07-2021
+
+A. Vaswani, N. Shazeer, N. Parmar, J. Uszkoreit, L. Jones, A. N.
+Gomez, L. Kaiser, and I. Polosukhin, 
+“Attention Is All You Need,”
+arXiv:1706.03762 [cs], Dec. 2017. arXiv: 1706.03762.
+
+A. Gillioz, J. Casas, E. Mugellini and O. A. Khaled, 
+"Overview of the Transformer-based Models for NLP Tasks," 
+2020 15th Conference on Computer Science and Information Systems (FedCSIS), 
+2020, pp. 179-183, doi: 10.15439/2020F20
+
+O. Sharir, B. Peieg, Y. Shoham, 
+"The Cost Of Training NLP Models,"
+arXiv:2004.08900 [cs.CL], Apr. 2020. arXiv:2004.08900v1
+
+T. Wolf, L. Debut, V. Sanh, J. Chaumond, C. Delangue, A. Moi, P. Cistac, T. Rault, R. Louf, M. Funtowicz, 
+J. Davison, S. Shleifer, P. von Platen, C. Ma, Y. Jernite,
+ J. Plu, C. Xu, T. Le Scao, S. Gugger, M. Drame, Q. Lhoest, A. Rush, 
+"Transformers: State-of-the-Art Natural Language Processing"
+arXiv:1910.03771 [cs.CL], Jul. 2020. arXiv:1910.03771v5
+
+V. Sanh, L. Debut, J. Chaumond, T. Wolf
+"DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter,"
+arXiv:1910.01108 [cs.CL] Oct. 2019. arXiv:1910.01108v4
